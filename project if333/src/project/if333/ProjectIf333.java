@@ -50,8 +50,7 @@ System.out.println("Jurusan Bus Antar Kota");
                 harga=50000;
                 break;
         }       
-                if (nama_jurusan>=1 && nama_jurusan<=2) {
-           
+               
             total = harga*jumlah_kursi;
             System.out.println("tiket telah dipesan oleh"+nama);
             System.out.println("jurusan"+nama_jurusan+"dengan jumlah"+jumlah_kursi);
